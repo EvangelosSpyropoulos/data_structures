@@ -1,0 +1,9 @@
+[submodule "ds3_lists"]
+	path = ds3_lists
+	url = https://github.com/EvangelosSpyropoulos/ds3_lists.git
+[submodule "ds1_arrays"]
+	path = ds1_arrays
+	url = https://github.com/EvangelosSpyropoulos/ds1_arrays.git
+[submodule "ds2_stacks"]
+	path = ds2_stacks
+	url = https://github.com/EvangelosSpyropoulos/ds2_stacks.git
